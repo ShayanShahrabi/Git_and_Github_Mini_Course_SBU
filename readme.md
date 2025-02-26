@@ -20,14 +20,19 @@ Below is a curated list of resources to help you learn Git and GitHub effectivel
 
 - **[Tabaghe16 by Soheil Alavi - EP 166 | Ahoora Niazi](https://www.youtube.com/watch?v=D0Vz7YrLsJQ)**
 
-- **[Advanced Programming Course by Professor Ramtin Khosravi](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187/)**: A comprehensive course that includes advanced programming topics.
+- **[Advanced Programming Course by Professor Ramtin Khosravi](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187/)**
 
 - **[Git Vizualizer](https://learngitbranching.js.org/)**
 
+- **[My Telegram Channel](https://t.me/shayanshahrabi_channel)**
+
+---
+## Some Videos to Solve Your Problems!
+- [How to Setup the SSH Key to Use Github](https://www.youtube.com/watch?v=X40b9x9BFGo)
 ---
 
 ## Feedback and Support
 If you have any questions, suggestions, or need further assistance, 
-please feel free to open an issue in this repository or email me :)
+please feel free to open an issue in this repository or email me!
 
 Happy coding!
